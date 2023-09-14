@@ -1,3 +1,4 @@
+//Exercício Comparando número entre um e outro.
 //Importando o módulo 
 const readline = require('readline-sync')
 
